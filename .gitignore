@@ -1,3 +1,12 @@
 NEXUS_Qubits/
 NEXUS_Qubits/
 .ipynb_checkpoints/
+Data_Output*/
+training_output_*/
+validation_output*/
+evaluation_*/
+logs/
+*.log
+Xilinx.lic
+fpga_tools/
+qick/
